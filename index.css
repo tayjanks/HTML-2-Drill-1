@@ -1,0 +1,33 @@
+body {
+    background-color: lightgrey;
+}
+h1 {
+    background-color: #565656;
+    height: 150px;
+    width: 100%;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+footer {
+    background-color: #565656;
+    display: flex;
+    justify-content: center;
+    margin-left: 250px;
+    margin-right:250px;
+    height: 150px;
+}
+div {
+    height: 1000px;
+    margin-right: 250px;
+    margin-left: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    margin-top: 0px;
+
+
+}
+.white {
+    
+}
